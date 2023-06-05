@@ -1,0 +1,28 @@
+@media (max-width:1000px){
+ .skill{
+  width:50%;
+ }
+ .top-wrapper h1{
+    font-size:30px;
+  }
+  .top-wrapper h2{
+    font-size:20px;
+  }
+}
+@media (max-width:670px){
+.skill{
+ width:100%;
+ }
+ .top-wrapper h1{
+    font-size:20px;
+  }
+  .top-wrapper h2{
+    font-size:10px;
+  }
+  .header-right{
+    display:none;
+  }
+  .menu-icon{
+    display:block;
+  }
+}
